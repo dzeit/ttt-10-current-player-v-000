@@ -5,8 +5,9 @@ def turn_count(board)
   board.each do |space|
     counter += 1
   end
-
+  turn_count(board)
 end
+
 
 def current_player(board)
 
