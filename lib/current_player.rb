@@ -1,7 +1,9 @@
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 def turn_count(board)
-  
-end 
+
+end
 
 def current_player(board)
-  
-end 
+
+end
